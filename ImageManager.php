@@ -9,7 +9,7 @@ use Intervention\Image\Exception\NotSupportedException;
 class ImageManager
 {
     /**
-     * Config
+     * Config 
      *
      * @var array
      */
