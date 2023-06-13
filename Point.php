@@ -6,7 +6,7 @@ class Point
 {
     /**
      * X coordinate
-     *
+     * 
      * @var int
      */
     public $x;
