@@ -12,7 +12,7 @@ class Size
      *
      * @var int
      */
-    public $width;
+    public $width;      
 
     /**
      * Height
